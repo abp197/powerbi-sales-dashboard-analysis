@@ -1,4 +1,4 @@
-# powerbi-sales-dashboard-analysis
+
 # 📊 Power BI Dashboard Analysis
 
 ## 📌 Project Overview
@@ -54,11 +54,12 @@ This project presents an interactive Power BI dashboard designed to analyze and 
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of your dashboard here.
+
 
 Example:
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1416" height="798" alt="Screenshot 2026-06-22 224454" src="https://github.com/user-attachments/assets/2daec568-6efe-44e4-9edb-c0d858dec7c2" />
+
 
 ---
 
